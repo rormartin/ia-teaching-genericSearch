@@ -8,6 +8,7 @@
     <packaging>jar</packaging>
 
     <name>ia-teaching-genericSearch</name>
+    <url>https://github.com/rormartin/ia-teaching-genericSearch</url>
 
     <licenses>
         <license>
